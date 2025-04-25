@@ -12,7 +12,11 @@
             "price": 7000000
         },
         "product_price": 7000000,
-        "status": "success"
+        "quantity": 5,
+        "total_price": 35000000,
+        "status": "Success",
+        "suspicious": false,
+        "refund_status": "No Refund"
     },
     {
         "order_id": 2,
@@ -27,7 +31,11 @@
             "price": 1500000
         },
         "product_price": 1500000,
-        "status": "success"
+        "quantity": 4,
+        "total_price": 6000000,
+        "status": "Success",
+        "suspicious": false,
+        "refund_status": "No Refund"
     },
     {
         "order_id": 3,
@@ -42,7 +50,11 @@
             "price": 5000000
         },
         "product_price": 5000000,
-        "status": "success"
+        "quantity": 10,
+        "total_price": 50000000,
+        "status": "Success",
+        "suspicious": false,
+        "refund_status": "No Refund"
     },
     {
         "order_id": 4,
@@ -57,6 +69,10 @@
             "price": 800000
         },
         "product_price": 800000,
-        "status": "success"
+        "quantity": 150,
+        "total_price": 120000000,
+        "status": "Failed",
+        "suspicious": true,
+        "refund_status": "Refund"
     }
 ]
