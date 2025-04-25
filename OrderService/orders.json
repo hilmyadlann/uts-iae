@@ -1,0 +1,62 @@
+[
+    {
+        "order_id": 1,
+        "user": {
+            "email": "adit@mail.com",
+            "id": 1,
+            "name": "Adit"
+        },
+        "product": {
+            "id": 10,
+            "name": "Laptop",
+            "price": 7000000
+        },
+        "product_price": 7000000,
+        "status": "success"
+    },
+    {
+        "order_id": 2,
+        "user": {
+            "email": "aldo@mail.com",
+            "id": 2,
+            "name": "Aldo"
+        },
+        "product": {
+            "id": 20,
+            "name": "Printer",
+            "price": 1500000
+        },
+        "product_price": 1500000,
+        "status": "success"
+    },
+    {
+        "order_id": 3,
+        "user": {
+            "email": "hilmy@mail.com",
+            "id": 3,
+            "name": "Hilmy"
+        },
+        "product": {
+            "id": 30,
+            "name": "Smartphone",
+            "price": 5000000
+        },
+        "product_price": 5000000,
+        "status": "success"
+    },
+    {
+        "order_id": 4,
+        "user": {
+            "email": "pricilia@mail.com",
+            "id": 4,
+            "name": "Pricilia"
+        },
+        "product": {
+            "id": 40,
+            "name": "Headphones",
+            "price": 800000
+        },
+        "product_price": 800000,
+        "status": "success"
+    }
+]
